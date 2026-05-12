@@ -19,7 +19,7 @@
 
 ### 🔧 Skills
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,git,github,vercel,surge" />
 </p>
 
 🧩 Other Tools:
@@ -28,7 +28,7 @@
 - MS PowerPoint
 - surge
 
-- 
+  
  This is my *personal portfolio website, created using **HTML and CSS*, to showcase my skills, projects, and contact information.
 
 I am learning web development step by step and building real projects to improve my practical skills.
