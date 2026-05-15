@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Sheikh Amber Jawed
 
-💻 **Frontend / Web Developer** | 🌱 **Full Stack MERN Student**  
+💻 **Frontend / Web Developer** | 🌱 **Full Stack  Student**  
 🚀 Passionate about building responsive, user-friendly web applications step by step.
 
 
@@ -29,7 +29,7 @@
 - surge
 
   
- This is my *personal portfolio website, created using **HTML and CSS*, to showcase my skills, projects, and contact information.
+ This is my *personal portfolio website, created using **HTML and CSS and javascript*, to showcase my skills, projects, and contact information.
 
 I am learning web development step by step and building real projects to improve my practical skills.
 
@@ -50,8 +50,8 @@ https://dulcet-yeot-c20e49.netlify.app/
 
 ## 📄 Resume (ATS Friendly)
 
-- 📌 Resume  : https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
-
+- 📌 Resume 1: https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+-   📌 Resume2: https://github.com/shiekhjawed/About-My-Self/blob/main/AI%20PRO%20RESUME.pdf
 
 ### 📫 Contact Me
 - GitHub: [shiekhjawed](https://github.com/shiekhjawed)
