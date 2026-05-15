@@ -38,7 +38,7 @@ I am learning web development step by step and building real projects to improve
 ## 🌐 Live Demo
 
 👉 *View Live Website:*  
-https://shiekhjawed.github.io/portfolio-shiekhAmberJawed/
+https://dulcet-yeot-c20e49.netlify.app/
 
 
 ### 📌 Projects
