@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 - 🎓 **BSc Engineering Graduate**
 - 🎓 **Master’s Program** (Completed 2 Semesters – USD)
-- 🎓 **Full Stack MERN Developer (Student)**
+- 🎓 **Front-End  Developer (Student)**
 - 🌱 Currently learning **JavaScript, Bootstrap & Web Development**
 - 🚀 Building projects **step by step**
 
