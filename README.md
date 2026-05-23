@@ -37,8 +37,11 @@ I am learning web development step by step and building real projects to improve
 ---
 ## 🌐 Live Demo
 
-👉 *View Live Website:*  
-https://dulcet-yeot-c20e49.netlify.app/
+👉 *View Live Website & portfolio:*  
+https://lnkd.in/dZfujDAQ
+https://lnkd.in/d7YN3cHd
+https://lnkd.in/dhXCbr24
+https://lnkd.in/dkUxdb-C
 
 
 ### 📌 Projects
