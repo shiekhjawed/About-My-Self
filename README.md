@@ -40,10 +40,7 @@ I am learning web development step by step and building real projects to improve
 👉 *View Live Website & portfolio:*  
 
 https://dulcet-yeot-c20e49.netlify.app/
-
-https://lnkd.in/d7YN3cHd
-https://lnkd.in/dhXCbr24
-https://lnkd.in/dkUxdb-C
+https://cheerful-moxie-9ae3e4.netlify.app/
 
 
 ### 📌 Projects
