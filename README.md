@@ -14,6 +14,10 @@
 - 🎓 **Front-End  Developer (Student)**
 - 🌱 Currently learning **Javascript**
 - 🚀 Building projects **step by step**
+- 💻 Web Development Student
+
+🚀 Building responsive and user-friendly web applications
+📚 Continuously improving through real-world projects
 
 ---
 
@@ -27,6 +31,33 @@
 - MS Excel  
 - MS PowerPoint
 - surge
+
+- <section id="contact">
+    <h2>Contact Me</h2>
+
+    <p>
+        📧 Email:
+        <a href="mailto:yourgmail@gmail.com">
+            yourgmail@gmail.com
+        </a>
+    </p>
+
+    <p>
+        💼 LinkedIn:
+        <a href="https://www.linkedin.com/in/shiekh-amber-jawed-856602255/"
+           target="_blank">
+           View LinkedIn Profile
+        </a>
+    </p>
+
+    <p>
+        💻 GitHub:
+        <a href="https://github.com/shiekhjawed"
+           target="_blank">
+           View GitHub Profile
+        </a>
+    </p>
+</section>
 
   
  This is my *personal portfolio website, created using **HTML and CSS and javascript*, to showcase my skills, projects, and contact information.
