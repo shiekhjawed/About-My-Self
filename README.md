@@ -56,9 +56,11 @@ https://splendorous-duckanoo-354c18.netlify.app/
 
 ## 📄 Resume (ATS Friendly)
 
-- 📌 Resume 1: https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
--   📌 Resume2: https://github.com/shiekhjawed/About-My-Self/blob/main/AI%20PRO%20RESUME.pdf
--    📌 Resume2  :  https://www.jobleads.com/resume-builder/result/12342019?jobId=
+
+-    📌 Resume1  :  https://www.jobleads.com/resume-builder/result/12342019?jobId=
+
+-    - 📌 Resume 2: https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+-   📌 Resume3: https://github.com/shiekhjawed/About-My-Self/blob/main/AI%20PRO%20RESUME.pdf
 
 ### 📫 Contact Me
 - GitHub: [shiekhjawed](https://github.com/shiekhjawed)
