@@ -38,7 +38,7 @@
 
     <p>
         📧 Email:
-        <a href="mailto:yourgmail@gmail.com">
+        <a href="shiekhamberjawed@gmail.com">
             yourgmail@gmail.com
         </a>
     </p>
