@@ -32,32 +32,7 @@
 - MS PowerPoint
 - surge
 
-- <section id="contact">
-    <h2>Contact Me</h2>
 
-    <p>
-        📧 Email:
-        <a href="shiekhamberjawed@gmail.com">
-            email.com
-        </a>
-    </p>
-
-    <p>
-        💼 LinkedIn:
-        <a href="https://www.linkedin.com/in/shiekh-amber-jawed-856602255/"
-           target="_blank">
-           View LinkedIn Profile
-        </a>
-    </p>
-
-    <p>
-        💻 GitHub:
-        <a href="https://github.com/shiekhjawed"
-           target="_blank">
-           View GitHub Profile
-        </a>
-    </p>
-</section>
 
   
  This is my *personal portfolio website, created using **HTML and CSS and javascript*, to showcase my skills, projects, and contact information.
@@ -93,7 +68,7 @@ https://splendorous-duckanoo-354c18.netlify.app/
 -    - 📌 Resume 2: https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
 -   📌 Resume3: https://github.com/shiekhjawed/About-My-Self/blob/main/AI%20PRO%20RESUME.pdf
 
-### 📫 <h2>Contact Me</h2>
+ <h2> ### 📫 Contact Me</h2>
 - - <section id="contact">
     
 
