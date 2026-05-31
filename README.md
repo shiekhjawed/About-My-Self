@@ -68,30 +68,10 @@ https://splendorous-duckanoo-354c18.netlify.app/
 -    - 📌 Resume 2: https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
 -   📌 Resume3: https://github.com/shiekhjawed/About-My-Self/blob/main/AI%20PRO%20RESUME.pdf
 
- <h2> ### 📫 Contact Me</h2>
-- - <section id="contact">
-    
+## 📫 Contact Me
 
-    <p>
-        📧 Email:
-        <a href="shiekhamberjawed@gmail.com">
-            email.com
-        </a>
-    </p>
+📧 Email: [shiekhamberjawed@gmail.com](mailto:shiekhamberjawed@gmail.com)
 
-    <p>
-        💼 LinkedIn:
-        <a href="https://www.linkedin.com/in/shiekh-amber-jawed-856602255/"
-           target="_blank">
-           View LinkedIn Profile
-        </a>
-    </p>
+💼 LinkedIn: [View LinkedIn Profile](https://www.linkedin.com/in/shiekh-amber-jawed-856602255/)
 
-    <p>
-        💻 GitHub:
-        <a href="https://github.com/shiekhjawed"
-           target="_blank">
-           View GitHub Profile
-        </a>
-    </p>
-</section>
+💻 GitHub: [View GitHub Profile](https://github.com/shiekhjawed)
