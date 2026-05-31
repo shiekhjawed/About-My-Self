@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Sheikh Amber Jawed
 
-💻 **Frontend / Web Developer** | 🌱 **Full Stack  Student**  
+💻 **Frontend / Web Developer** | 🌱 ** Student**  
 🚀 Passionate about building responsive, user-friendly web applications step by step.
 
 
@@ -12,7 +12,7 @@
 - 🎓 **BSc Engineering Graduate**
 - 🎓 **Master’s Program** (Completed 2 Semesters – USD)
 - 🎓 **Front-End  Developer (Student)**
-- 🌱 Currently learning **JavaScript, Bootstrap & Web Development**
+- 🌱 Currently learning **Javascript**
 - 🚀 Building projects **step by step**
 
 ---
