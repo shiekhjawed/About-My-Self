@@ -14,7 +14,6 @@
 - 🎓 **Front-End  Developer (Student)**
 - 🌱 Currently learning **Javascript**
 - 🚀 Building projects **step by step**
-- 💻 Web Development Student
 
 🚀 Building responsive and user-friendly web applications
 
@@ -94,5 +93,30 @@ https://splendorous-duckanoo-354c18.netlify.app/
 -    - 📌 Resume 2: https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
 -   📌 Resume3: https://github.com/shiekhjawed/About-My-Self/blob/main/AI%20PRO%20RESUME.pdf
 
-### 📫 Contact Me
-- GitHub: [shiekhjawed](https://github.com/shiekhjawed)
+### 📫 <h2>Contact Me</h2>
+- - <section id="contact">
+    
+
+    <p>
+        📧 Email:
+        <a href="shiekhamberjawed@gmail.com">
+            email.com
+        </a>
+    </p>
+
+    <p>
+        💼 LinkedIn:
+        <a href="https://www.linkedin.com/in/shiekh-amber-jawed-856602255/"
+           target="_blank">
+           View LinkedIn Profile
+        </a>
+    </p>
+
+    <p>
+        💻 GitHub:
+        <a href="https://github.com/shiekhjawed"
+           target="_blank">
+           View GitHub Profile
+        </a>
+    </p>
+</section>
