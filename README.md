@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Sheikh Amber Jawed
 
-💻 **Frontend / Web Developer** | 🌱 ** Student**  
+💻 **Web Development** | 🌱 ** Student**  
 🚀 Passionate about building responsive, user-friendly web applications step by step.
 
 
@@ -17,6 +17,7 @@
 - 💻 Web Development Student
 
 🚀 Building responsive and user-friendly web applications
+
 📚 Continuously improving through real-world projects
 
 ---
