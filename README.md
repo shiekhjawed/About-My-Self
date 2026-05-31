@@ -39,7 +39,7 @@
     <p>
         📧 Email:
         <a href="shiekhamberjawed@gmail.com">
-            yourgmail@gmail.com
+            email.com
         </a>
     </p>
 
