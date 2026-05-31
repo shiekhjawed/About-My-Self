@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 - 🎓 **BSc Engineering Graduate**
 - 🎓 **Master’s Program** (Completed 2 Semesters – USD)
-- 🎓 **Front-End  Developer (Student)**
+- 🎓 **Front-End  Developer**
 - 🌱 Currently learning **Javascript**
 - 🚀 Building projects **step by step**
 
