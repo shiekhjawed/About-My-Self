@@ -75,27 +75,4 @@ https://splendorous-duckanoo-354c18.netlify.app/
 💼 LinkedIn: [View LinkedIn Profile](https://www.linkedin.com/in/shiekh-amber-jawed-856602255/)
 
 💻 GitHub: [View GitHub Profile](https://github.com/shiekhjawed)
-<section id="contact">
-    <h2>📫 Contact Me</h2>
 
-    <p>
-        📧 Email:
-        <a href="mailto:shiekhamberjawed@gmail.com">
-            shiekhamberjawed@gmail.com
-        </a>
-    </p>
-
-    <p>
-        💼 LinkedIn:
-        <a href="https://www.linkedin.com/in/shiekh-amber-jawed-856602255/" target="_blank">
-            View LinkedIn Profile
-        </a>
-    </p>
-
-    <p>
-        💻 GitHub:
-        <a href="https://github.com/shiekhjawed" target="_blank">
-            View GitHub Profile
-        </a>
-    </p>
-</section>
