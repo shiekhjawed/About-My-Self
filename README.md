@@ -23,7 +23,7 @@
 
 ### 🔧 Skills
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,git,github,vercel,surge" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,git,github,vercel,node.js,surge" />
 </p>
 
 🧩 Other Tools:
@@ -31,6 +31,7 @@
 - MS Excel  
 - MS PowerPoint
 - surge
+- node.js
 
 
 
