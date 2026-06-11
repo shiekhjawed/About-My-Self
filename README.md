@@ -23,7 +23,7 @@
 
 ### 🔧 Skills
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,git,github,vercel,node.js,surge,Netify,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,git,github,vercel,node.js,typescript" />
 </p>
 
 🧩 Other Tools:
