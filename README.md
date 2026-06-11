@@ -12,7 +12,7 @@
 - 🎓 **BSc Engineering Graduate**
 - 🎓 **Master’s Program** (Completed 2 Semesters – USD)
 - 🎓 **Front-End  Developer**
-- 🌱 Currently learning **Javascript**
+- 🌱 Currently learning **Typescript**
 - 🚀 Building projects **step by step**
 
 🚀 Building responsive and user-friendly web applications
@@ -23,7 +23,7 @@
 
 ### 🔧 Skills
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,git,github,vercel,node.js,surge,netify" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,git,github,vercel,node.js,surge,netify,typescript" />
 </p>
 
 🧩 Other Tools:
