@@ -47,7 +47,7 @@ I am learning web development step by step and building real projects to improve
 
 👉 *View Live Website & portfolio:*  
 
-https://dulcet-yeot-c20e49.netlify.app/
+wonderful-blini-0c996c.netlify.app
 
 
 https://cheerful-moxie-9ae3e4.netlify.app/
