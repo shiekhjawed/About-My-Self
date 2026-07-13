@@ -12,7 +12,7 @@
 - 🎓 **BSc Engineering Graduate**
 - 🎓 **Master’s Program** (Completed 2 Semesters – USD)
 - 🎓 **Front-End  Developer**
-- 🌱 Currently learning **Typescript**
+- 🌱 Currently learning **React**
 - 🚀 Building projects **step by step**
 
 🚀 Building responsive and user-friendly web applications
